@@ -1,8 +1,5 @@
 ## Introduction
 
-This is the Code submission accompanying the CIKM 2021 paper, titled "ScarceGAN: Discriminative Classification Framework for Rare
-Class Identification for Longitudinal Data with Weak Prior"
-
 This code contains the implementations of baseline Vanilla SSGAN, AAE, ScarceGAN, ScarceGAN w/o bad generator, and ScarceGAN w/o leeway term employed in the paper to generate the desired results. Entire code is written using Keras with TensorFlow2.x as backend. In its current state, the code can be used to train new models, while pre-trained models will be made available shortly.
 
 We specifically address: 
