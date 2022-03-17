@@ -1,5 +1,5 @@
 ## Introduction
-
+This is the official repository of ScarceGAN which was presented at **CIKM 2021** - https://dl.acm.org/doi/abs/10.1145/3459637.3482474.
 This code contains the implementations of baseline Vanilla SSGAN, AAE, ScarceGAN, ScarceGAN w/o bad generator, and ScarceGAN w/o leeway term employed in the paper to generate the desired results. Entire code is written using Keras with TensorFlow2.x as backend. In its current state, the code can be used to train new models, while pre-trained models will be made available shortly.
 
 We specifically address: 
